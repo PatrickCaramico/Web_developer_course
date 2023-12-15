@@ -2,9 +2,26 @@
 
 <p>Pastas com todos os projetos que eu desenvolvi até agora no curso. </p>
 
+# README Contents:
+
+- [Summary](#summary)
+  - [About](#about)
+  - [links](#links)
+- [Process](#process)
+  - [Learned](#learned)
+- [Autor](#autor)    
+
+## summary
+
+### about
+
+<p>Alguns projetos possuem interações, são responsivos e são apenas sites estaticos, apenas para uso educacional</p>
+
 ---
 
-## Links Projetos
+### Links
+
+<h1>Links Projetos</h1>
 
 - [Efeito Parallax](https://patrickcaramico.github.io/Web_developer_course/Efeito-Parallax/index.html)
   - [Código](https://github.com/PatrickCaramico/Web_developer_course/tree/main/Efeito-Parallax)
@@ -32,4 +49,23 @@
   - [Código](https://github.com/PatrickCaramico/Web_developer_course/tree/main/11%C2%B0-App-Orcamento-Pessoal)          
 
 ---
+
+## process
+
+### learned
+
+🟢 HTML5 Avançado; <br>
+🟢 CSS3 Avançado; <br>
+🟢 Bootstrap4; <br>
+🟢 Javascript Avançado;<br>
+🟢 ECMACScript 2015; <br>
+
+## autor
+
+[![linkedin Badge](https://img.shields.io/badge/Patrick%20Caramico-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrickcaramico)](https://www.linkedin.com/in/patrickcaramico/)
+[![Twitter Badge](https://img.shields.io/badge/Caramico%20Patrick-0077B5?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/CaramicoPatrick)](https://twitter.com/CaramicoPatrick)
+[![GitHub Badge](https://img.shields.io/badge/Patrick%20Caramico-0077B5?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/PatrickCaramico)](https://github.com/PatrickCaramico)
+
+
+
 
