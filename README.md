@@ -12,5 +12,5 @@
   - [Código](https://github.com/PatrickCaramico/Web_developer_course/tree/main/2°-Projeto-AnnaBella)
 - [3°Projeto - BlogTec](https://patrickcaramico.github.io/Web_developer_course/3°-Projeto-BlogTec/index.html)
   - [Código](https://github.com/PatrickCaramico/Web_developer_course/tree/main/3°-Projeto-BlogTec)
-- []()
-  - []()
+- [4°Projeto - Cities](https://patrickcaramico.github.io/Web_developer_course/4°-Projeto-Cities/index.html)
+  - [Código](https://github.com/PatrickCaramico/Web_developer_course/tree/main/4°-Projeto-Cities)
