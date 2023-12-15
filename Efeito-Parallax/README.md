@@ -1,6 +1,6 @@
 # Efeito - Parallax
 
-<p>Um projeto fictício com efeito parallax, desenvolvido através do curso Desenvolvimento Web. O intuito desse projeto é fazer o efeito parallax com algumas imagens</p>
+<p>Um projeto fictício com efeito parallax, desenvolvido através do curso Desenvolvimento Web. O intuito desse projeto é fazer o efeito parallax com algumas imagens.</p>
 
 # Readme Contents:
 
