@@ -1,0 +1,125 @@
+/* Limpando formatações padrao */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: sans-serif;
+    font-size: 1em; /*16px*/
+    background: #e6e6e6;
+}
+
+/* Layout */
+
+#area-cabecalho {
+    background-color: lightskyblue;
+    padding: 15px;
+    text-align: center;
+}
+
+#area-logo, #area-menu {
+    padding: 10px;
+}
+
+#area-principal {
+    width: 920px;
+    margin: 0 auto;
+    padding: 15px;
+}
+
+#area-postagens {
+    width: 660px;
+    float: left;
+}
+
+#area-lateral {
+    width: 240px;
+    float: right;
+}
+
+.postagem {
+    padding: 20px;
+    margin-bottom: 20px;
+    background: white;
+
+}
+
+.conteudo-lateral {
+    background: white;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.postagem-lateral {
+    font-size: 0.8em;
+    padding: 5px;
+    border-bottom: 1px dotted #ccc;
+}
+
+#rodape {
+    background: #ccc;
+    clear: both;
+    text-align: center;
+    padding: 15px;
+
+}
+
+/* Formatação do menu */
+
+a {
+    text-decoration: none;
+}
+
+a:link, a:visited {
+    color: lightskyblue;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+#area-cabecalho a:link, #area-cabecalho a:visited {
+    color: black;
+    padding: 8px 12px;
+}
+
+#area-cabecalho a:hover {
+    color: #fff;
+    background: rgb(74, 165, 222);
+    text-decoration: none;
+}
+
+/* Formatações Gerais */
+
+h1 {
+    color: #4e4e4e;
+    font-size: 2.5em;
+}
+
+h2 {
+    color: lightskyblue;
+}
+
+h3 {
+    color: #565656;
+    background: #ccc;
+    padding: 5px;
+}
+
+.branco {
+   color: white; 
+}
+
+.data-postagem {
+    font-size: 0.8em;
+    border-bottom: 1px solid #f4f4f4;
+    font-weight: bold;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    display: block;
+}
+
+
+
+
