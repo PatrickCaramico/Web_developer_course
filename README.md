@@ -57,7 +57,7 @@
 🟢 HTML5 Avançado; <br>
 🟢 CSS3 Avançado; <br>
 🟢 Bootstrap4; <br>
-🟢 Javascript Avançado;<br>
+🟢 Javascript Avançado; <br>
 🟢 ECMACScript 2015; <br>
 
 ## autor
