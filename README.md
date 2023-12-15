@@ -16,3 +16,5 @@
   - [Código](https://github.com/PatrickCaramico/Web_developer_course/tree/main/4°-Projeto-Cities)
 - [5°Projeto - Chalé](https://patrickcaramico.github.io/Web_developer_course/5°-Projeto-Chalé/index.html)
   - [Código](https://github.com/PatrickCaramico/Web_developer_course/tree/main/5°-Projeto-Chalé)
+- [6°Projeto - Museu](https://patrickcaramico.github.io/Web_developer_course/6°-Projeto-Museu/index.html)
+  - [Código](https://github.com/PatrickCaramico/Web_developer_course/tree/main/6°-Projeto-Museu) 
