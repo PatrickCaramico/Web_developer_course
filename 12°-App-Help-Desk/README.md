@@ -9,9 +9,8 @@
   - [preview](#preview)
   - [screenshot](#screenshot)
 - [My code](#codes)
-  - [HTML](#html)
+  - [PHP](#php)
   - [CSS](#css)
-  - [Javascript](#js)
 - [Process](#process)
   - [Designed](#designed)
   - [Learned](#learned)
@@ -26,34 +25,39 @@
 
 ### preview
 
-<img align="center" src="" width="900px">
+<img align="center" src="assets/images/Tela_Help_Desk.gif" width="900px">
 
 <br>
 
 ### screenshot
 
-<img src="" width="900px">
+<img src="assets/images/Tela_inicial.png" width="900px">
+
+<br>
+
+<img src="assets/images/Tela_menu.png" width="900px">
+
+<br>
+
+<img src="assets/images/Tela_abertura.png" width="900px">
+
+<br>
+
+<img src="assets/images/Tela_chamado.png" width="900px">
 
 ## codes
 
-### html
+### php
 
-<p>Code HTML</p>
-<img align="center" src="" width="900px"/>
+<p>Code PHP</p>
+<img align="center" src="assets/images/Tela_php.png" width="900px"/>
 
 <br>
 
 ### css
 
 <p>Code CSS</p>
-<img align="center" src="" width="900px"/>
-
-<br>
-
-### js
-
-<p>Code Js</p>
-<img align="center" src="" width="900px"/>
+<img align="center" src="assets/images/Tela_css.png" width="900px"/>
 
 <br>
 
@@ -61,14 +65,17 @@
 
 ### designed
 
-- 
-- 
-- 
-- 
+- Modelo Help Desk;
+- PHP7 Básico;
+- Bootstrap4;
+- App. 
 
 ### learned
 
-🟢 <br>
+🟢 PHP7; <br>
+🟢 Help Desk; <br>
+🟢 Bootstrap4; <br>
+🟢 Armazenamento local. <br>
 
 ## autor
 
