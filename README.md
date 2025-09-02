@@ -45,7 +45,7 @@
   - [Código](https://github.com/PatrickCaramico/Web_developer_course/tree/main/9°-App-Game-Calculadora)
 - [10°App Game - Mata Mosquito](https://patrickcaramico.github.io/Web_developer_course/10°-App-Game-Mata-Mosquito/index.html)
   - [Código](https://github.com/PatrickCaramico/Web_developer_course/tree/main/10°-App-Game-Mata-Mosquito)
-- [11°App Game - Orçamento Pessoal](https://patrickcaramico.github.io/Web_developer_course/11°-App-Orcamento-Pessoal/index.html)
+- [11°App Game - Orçamento Pessoal](https://click-mosca.netlify.app/index.html)
   - [Código](https://github.com/PatrickCaramico/Web_developer_course/tree/main/11%C2%B0-App-Orcamento-Pessoal)
 - [12°App - Help Desk](https://patrickcaramico.github.io/Web_developer_course/12°-App-Help-Desk/index.php)
   - [Código](https://github.com/PatrickCaramico/Web_developer_course/tree/main/12%C2%B0-App-Help-Desk)          
